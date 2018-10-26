@@ -9,4 +9,4 @@ http://mdecourse.github.io/2018fall/
 
 cpgx 網站: https://cpgx.kmol.info
 
-https://github.com/vecp2018/site-s40728408
+我想要87分!: https://github.com/vecp2018/site-s40728408
